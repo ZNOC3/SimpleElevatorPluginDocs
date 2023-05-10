@@ -1,0 +1,3 @@
+# Elevator Audio Configuration
+
+> When using elevator music or elevator movement sound make sure to set the lopping mode to true and under voice management tab set the virtualization mode to "Play when silent" in your sfx settings <br>![Virtualization](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/4f7a554e-5625-4106-897d-2bc7785c48d1)<br>![Lopping](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/6b5d49ea-8f6f-4db0-b7c7-d10e70280990)
