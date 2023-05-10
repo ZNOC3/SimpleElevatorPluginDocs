@@ -4,6 +4,7 @@
 </p>
 
 The Simple Elevator Plugin offers a high level of customizability and flexibility to create elevators tailored to specific needs. With just a few clicks, you can add an elevator to your level and start using it right away. The plugin offers many customization options, such as setting the speed of the elevator, the distance between floors, and the delay before the doors open and close
+
 -------------
 
 [Support discord server](https://discord.com/invite/haSBuuTARt)
