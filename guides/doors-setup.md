@@ -2,11 +2,14 @@
 
 Simple Elevator Plugin offers two types of doors - linear, which moves only in one direction and doesn't support (yet) rotation
 
+>[!Tip]
+>If you want to completly remove doors choose linear door type and set Opened and Closed door location to 0<br><br>![Loc](/img/UnrealEditor_PiPfIPujkl.png)
+
 ## Door type: Linear
 
 ***Door Movement Direction*** - Toggle which determines the direction doors will move in <br><br> ![DMD](/img/UnrealEditor_U9yBlOqEbM.png)
 
-***Door Movement Speed*** - Determines the pace at which doors will move during their movement.
+***Door Movement Speed*** - Determines the pace at which doors will move during their movement. Minumum value is 0.1 and max is 10
 
 ***Left Door Mirrors Movement*** - When set to false, the left door mirrors the movement of the right door, including opening and closing positions. When set to true, each door has independent opening and closing positions.
 
