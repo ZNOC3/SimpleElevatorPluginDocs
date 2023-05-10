@@ -10,7 +10,7 @@ Simple Elevator Plugin version 1.1 documentation: [Old Documentation](https://do
 
 -------------
 
-[C++ Documentation](https://arkann3.github.io/SEPCppDocs/)
+[C++ Documentation](https://znoc3.github.io/SimpleElevatorPluginCppDocs/index.html)
 
 -------------
 
