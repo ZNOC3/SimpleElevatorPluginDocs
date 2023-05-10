@@ -1,9 +1,9 @@
 # Door configuration
 
-Simple Elevator Plugin offers two types of doors - linear, which moves only in one direction and doesn't support (yet) rotation
+Simple Elevator Plugin offers two types of doors<br> - Linear, which moves only in one direction at a time and doesn't support (yet) rotation,<br> - Curve Asset which supports movement and rotation in all directions!
 
 >[!Tip]
->If you want to completly remove doors choose linear door type and set Opened and Closed door location to 0<br><br>![Loc](/img/UnrealEditor_PiPfIPujkl.png)
+>If you want to completly remove doors choose linear door type and set Opened and Closed door location to 0<br>![Loc](/img/UnrealEditor_PiPfIPujkl.png)
 
 ## Door type: Linear
 
