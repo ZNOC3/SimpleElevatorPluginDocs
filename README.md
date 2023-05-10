@@ -5,6 +5,12 @@
 
 The Simple Elevator Plugin offers a high level of customizability and flexibility to create elevators tailored to specific needs. With just a few clicks, you can add an elevator to your level and start using it right away. The plugin offers many customization options, such as setting the speed of the elevator, the distance between floors, and the delay before the doors open and close
 
+>[!Warning]
+> Version 2.0 may break some parts of old elevators when using custom setups, make sure to backup your project before updating to the newest version!
+
+>[!Tip]
+> If you found the plugin useful feel free to share your thoughts, suggestions, or any issues you encountered while using the plugin. [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/4c2368508a94433eb6a7ff00704a7c1f/reviews)
+
 -------------
 
 [Support discord server](https://discord.com/invite/haSBuuTARt)
