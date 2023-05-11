@@ -9,8 +9,8 @@
 ## Properties
 ***Play Elevator Music*** - Enables playback of elevator music at Elevator Music Audio Component.
 
-***Elevator Music*** - 
+***Elevator Music*** - Sound played after selecting target floor to finishing elevator movement
 
 ***Play Elevator Movement Sound*** - Enables playback of elevator movement sound at Elevator Movement Audio Component.
 
-***Elevator Movement Sound*** -
+***Elevator Movement Sound*** - Sound played when the elevator is moving between floors

@@ -11,6 +11,9 @@ The Simple Elevator Plugin offers a high level of customizability and flexibilit
 >[!Tip]
 > If you found the plugin useful feel free to share your thoughts, suggestions, or any issues you encountered while using the plugin. [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/4c2368508a94433eb6a7ff00704a7c1f/reviews)
 
+>[!Tip]
+> If you need aditional support, feel free to join the [Discord Server]()
+
 -------------
 
 [Support discord server](https://discord.com/invite/haSBuuTARt)

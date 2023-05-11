@@ -10,7 +10,7 @@
   - [External door](guides/external-door.md)
   - [Interaction box](guides/interaction-box.md)
   - [Widgets](guides/widgets.md)
-  - [Floor Configuration]()
+  - [Floor Configuration](guides/floor-config.md)
     - [Entry box](guides/floor-config/entry-box.md)
     - [Delays](guides/floor-config/delays.md)
   - [Audio Configration]()
