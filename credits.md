@@ -1,6 +1,5 @@
 # Credits
 
-
 > [!Note]
 > Every asset in this list is under [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/)
 

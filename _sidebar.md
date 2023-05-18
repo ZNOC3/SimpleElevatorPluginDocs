@@ -20,4 +20,6 @@
   - [Integration into existing save system](guides/custom-save-game-object.md)
   - [Working with modular meshes](/guides/modular-config.md)
   - [Using single mesh](/guides/single-mesh.md)
+- [Funtions](functions.md)
+- [Events](events.md)
 - [Credits](credits.md)
