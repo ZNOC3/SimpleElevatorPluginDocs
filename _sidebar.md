@@ -18,4 +18,6 @@
     - [Per floor configuration](guides/elevator-audio/audio-per-floor)
   - [Save System](guides/save-game.md)
   - [Integration into existing save system](guides/custom-save-game-object.md)
+  - [Working with modular meshes](/guides/modular-config.md)
+  - [Using single mesh](/guides/single-mesh.md)
 - [Credits](credits.md)

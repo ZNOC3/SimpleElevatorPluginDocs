@@ -1,6 +1,6 @@
 # Interaction Widget
 
-**Interaction Widget Class** - Determines the class of the 3D Interaction widget. Must be a child of _SEP Master Interaction Widget_ class.
+- **Interaction Widget Class** - Determines the class of the 3D Interaction widget. Must be a child of _SEP Master Interaction Widget_ class.
 
 - Customizing widget letter
     - Open WB_Interaction and on the left side select [TEXT] "E" and in details panel on the right side in the text tab you can specify letter you want to use. <br>![ChangingLetter](/img/UnrealEditor_fcCeS1DHnk.png)
@@ -13,4 +13,4 @@
 
 # Elevator UI Widget
 
-**Elevator Widget Class** - Determines the class of elevator UI. Must be a child of _SEP Master Elevator UI_ class.
+- **Elevator Widget Class** - Determines the class of elevator UI. Must be a child of _SEP Master Elevator UI_ class.

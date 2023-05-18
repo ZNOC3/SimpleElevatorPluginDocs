@@ -16,18 +16,18 @@ The Simple Elevator Plugin offers a high level of customizability and flexibilit
 
 -------------
 
-[Support discord server](https://discord.com/invite/haSBuuTARt)
+- [Support discord server](https://discord.com/invite/haSBuuTARt)
 
 -------------
 Simple Elevator Plugin version 1.1 documentation: [Old Documentation](https://docs.google.com/document/d/1PFOIRGoz45vnDTbrHWiHUlLY4W2v0xPjkfvhlF_yfTI/edit "Old Documentation")
 
 -------------
 
-[C++ Documentation](https://znoc3.github.io/SimpleElevatorPluginCppDocs/index.html)
+- [C++ Documentation](https://znoc3.github.io/SimpleElevatorPluginCppDocs/index.html)
 
 -------------
 
-[Change log](change-log.md)
+- [Change log](change-log.md)
 
 -------------
 
