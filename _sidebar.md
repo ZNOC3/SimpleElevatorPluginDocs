@@ -13,7 +13,7 @@
   - [Floor Configuration](guides/floor-config.md)
     - [Entry box](guides/floor-config/entry-box.md)
     - [Delays](guides/floor-config/delays.md)
-  - [Audio Configration]()
+  - [Audio Configration](guides/audio.md)
     - [Elevator Audio](guides/elevator-audio/elevator-audio)
     - [Per floor configuration](guides/elevator-audio/audio-per-floor)
   - [Save System](guides/save-game.md)

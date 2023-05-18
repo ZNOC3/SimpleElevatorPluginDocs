@@ -1,8 +1,10 @@
 # Basic configuration
 
+>[!Note]
+> FloorMesh position determines the position of the entire elevator.
+
 **Elevator Movement Speed** - controls speed of the elevator while its moving. It has a range of 
 0.1 - 5.
-
 
 **Starting Elevator Floor** - controls starting position of the elevator, requires setting up [Floor configration](/guides/floor-config.md) first
 
