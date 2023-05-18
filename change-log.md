@@ -1,5 +1,10 @@
 # Change log
 
+## Version 2.1: Performance improvements (Comming soon!)
+- Switch external doors to use InstancedStaticMeshComponent
+- Change state handling to enum
+
+
 ## Version 2.0: Major Improvements and New Features (Current)
 
 - Mechanics
@@ -18,15 +23,20 @@
         >- Automatic - game will be saved when opening doors.
         >- Automatic with timer - game will be saved automatically every x seconds.
     - Save game supports integration into already existing save game system: [More info here]()
+    - Save Manager visualises selected save actors using trace ![Vis Dem](/img/UnrealEditor_Wr3JTQ0kRV.jpg)
+
 - Performance
     - Calculating next floor is now multi-threaded, using async function.
     - Refactored almost all functions - now the c++ code is even more readable.
     - Small performance upgrades.
+
 - Documentation
     - Brand new documentation.
     - New blueprint exposed functions and events, more info here: [New functions](), [New events]().
-- Examples
-    - TODO:
+
+- Bugfix
+    - Fixed collision boxes getting duplicated in editor after undoing edit.
+    - Other minor fixes.
 
 ## Version 1.1: Small update
 - Added new door opening direction (Z Axis)

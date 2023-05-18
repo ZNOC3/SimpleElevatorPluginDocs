@@ -1,2 +1,0 @@
-> [!NOTE]
-> The demo map on UE 5.0 version of the plugin requires changing the default player input class and the default input component class to the enhanced input one in project settings (Input category). <br> ![Input](img\UnrealEditor_L8XdiQbWhD.png)

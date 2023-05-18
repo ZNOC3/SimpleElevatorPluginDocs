@@ -7,7 +7,8 @@ Simple Elevator Plugin offers two types of doors<br> - Linear, which moves only 
 
 ## Door type: Linear
 
-***Door Movement Direction*** - Toggle which determines the direction doors will move in <br><br> ![DMD](/img/UnrealEditor_U9yBlOqEbM.png)
+***Door Movement Direction*** - Toggle which determines the direction doors will move in <br><br> 
+![DMD](/img/UnrealEditor_U9yBlOqEbM.png)
 
 ***Door Movement Speed*** - Determines the pace at which doors will move during their movement. Minumum value is 0.1 and max is 10
 
