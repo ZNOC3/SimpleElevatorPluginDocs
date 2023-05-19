@@ -10,6 +10,6 @@ To use a single mesh as an elevator, you can follow these steps:
 - Set the static mesh component to None for the following components: ***Wall SMesh***, ***Wall WMesh***, ***Wall EMesh***, ***Wall NMesh***, ***Roof Mesh***, and **Interaction Panel Mesh**.
 - In the Floor Mesh component, set the static mesh as your desired mesh.
 
-![None](/img\UnrealEditor_T9W8z2dNqp.png)
+![None](/img/UnrealEditor_T9W8z2dNqp.png)
 
-![Target](/img\UnrealEditor_uhcYKGWSvl.png)
+![Target](/img/UnrealEditor_uhcYKGWSvl.png)
