@@ -32,7 +32,7 @@
 
 - Documentation
     - Brand new documentation.
-    - New blueprint exposed functions and events, more info here: [New functions](), [New events]().
+    - New blueprint exposed functions and events, more info here: [New functions](functions.md), [New events](events.md).
 
 - Bugfix
     - Fixed collision boxes getting duplicated in editor after undoing edit.

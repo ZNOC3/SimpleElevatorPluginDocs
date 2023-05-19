@@ -3,7 +3,7 @@
 > [!Note]
 > Every asset in this list is under [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/)
 
-# SFX
+# SFX:
 
 - [Elevator Ding](https://freesound.org/people/collierhs_colinlib/sounds/588718/)
 
@@ -19,6 +19,6 @@
 
 - [Elevator Open Doors](https://freesound.org/people/Trautwein/sounds/223653/)
 
-# Textures- 
+# Textures:
 
 - Created using assets from [ambientCG.com](https://ambientcg.com/) (CC0).
