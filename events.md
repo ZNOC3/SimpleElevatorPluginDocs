@@ -1,9 +1,9 @@
 # New plugin events
 
-- **Event Load Elevator Data Custom Object** - Is called when loading game, requires ***Use Custom Save Game Object*** turned on to work. Actor index specifies array index - [See guide](/guides/custom-save-game-object.md)
+- **Event Load Elevator Data Custom Object** - Is called when loading game, requires ***Use Custom Save Game Object*** turned on to work. Actor index specifies array index - [See guide](/guides/custom-save-game-object.md)<br>
 ![LEDCO](/img/UnrealEditor_2Yl27n6nyy.png)
 
-- **Event Save Elevator Data Custom Object** - Is called when saving game, requires ***Use Custom Save Game Object*** turned on to work - [See guide](/guides/custom-save-game-object.md)
+- **Event Save Elevator Data Custom Object** - Is called when saving game, requires ***Use Custom Save Game Object*** turned on to work - [See guide](/guides/custom-save-game-object.md)<br>
 ![SEDCO](/img/UnrealEditor_vBBPLaP7Sp.png)
 
 >[!Warning]
