@@ -19,6 +19,7 @@
   - [Save System](guides/save-game.md)
   - [Integration into existing save system](guides/custom-save-game-object.md)
   - [Using single mesh](/guides/single-mesh.md)
+  - [Removing doors](/guides/removing-doors.md)
 - [Funtions](functions.md)
 - [Events](events.md)
 - [Credits](credits.md)

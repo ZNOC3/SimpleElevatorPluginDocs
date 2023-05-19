@@ -4,10 +4,16 @@
 
 ![Var](/img/UnrealEditor_ljDjsmLsIF.png)
 
-- Open BP_SEP_Master_Actor (or its child if you are using one) and add **Event Save Elevator Data Custom Object**. From there, create a new save game object with the selected class and add to the save data array the current elevator save data. After that, save the game to your selected slot.
+- Open BP_SEP_Master_Actor (or its child, if using one) and add ***Event Save Elevator Data Custom Object***.
+- Create a new save game object with the selected class and add the current elevator save data to the save data array.
+- Save the game to your selected slot.
 
 ![Save Game](/img/UnrealEditor_EKTWDiY0Yy.png)
 
-- To load save game add **Event Load Elevator Data Custom Object**. From there, load game from your slot, from it cast to your save game object, get from it save data array and get an actor index from. From save data call Load Custom Save function on SEP Master Actor. The plugin will load all necessary settings automaticly.
+- To load a save game, use the ***Event Load Elevator Data Custom Object.***
+- Cast the loaded game from your slot to your save game object.
+- From the save game object, get the save data array and the actor index.
+- Call the "Load Custom Save" function on the SEP Master Actor with the save data.
+- The plugin will automatically load all necessary settings.
 
 ![Load Game](/img/UnrealEditor_S37EPANXpW.png)

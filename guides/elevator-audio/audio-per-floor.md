@@ -1,6 +1,6 @@
 # Per floor sound configuration
 
-You can configure each for the follwing variable on every floor in different way
+You can configure each of the following variables on every floor in a different way
 
 ![List](/img/UnrealEditor_3nLDoLnBU0.png)
 

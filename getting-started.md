@@ -1,3 +1,3 @@
 # Getting started
 
-This part explains basics on how to install the plugin, for actual plugin usage go to: [Configuration](/guides.md)
+This section explains the basics of how to install the plugin. For information on actual plugin usage, please refer to: [Configuration](/guides.md)

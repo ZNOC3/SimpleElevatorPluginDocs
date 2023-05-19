@@ -1,7 +1,7 @@
 # Elevator Audio Configuration
 
 > [!NOTE]
-> When using elevator music or elevator movement sound make sure to set the lopping mode to true and under voice management tab set the virtualization mode to "Play when silent" in your sfx settings <br>![Virtualization](/img/UnrealEditor_SCYTuEHRdt.png)<br>![Lopping](/img/UnrealEditor_CmJWsGPxoF.png)
+> When using elevator music or elevator movement sound, make sure to set the looping mode to true and in the settings, under voice management tab, set the virtualization mode to 'Play when silent' in your SFX settings. <br>![Virtualization](/img/UnrealEditor_SCYTuEHRdt.png)<br>![Lopping](/img/UnrealEditor_CmJWsGPxoF.png)
 
 > [!TIP]
 > By default, all audio components are set to have sound attenuation settings as SA_ElevatorSoundAttenuation. However, you can modify this by changing the properties of each audio component individually.
