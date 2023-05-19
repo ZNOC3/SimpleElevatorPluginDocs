@@ -29,7 +29,7 @@
 - **Get Actor Data to Save** - Returns structure with current save data.<br>
 ![GADTS](/img/UnrealEditor_PndS6AEpPE.png)
 
-- **Get Curve Duration** - Returns lenght of selected curve asset.
+- **Get Curve Duration** - Returns lenght of selected curve asset.<br>
 ![GCD](/img/UnrealEditor_iqPi40HDN1.png)
 
 
