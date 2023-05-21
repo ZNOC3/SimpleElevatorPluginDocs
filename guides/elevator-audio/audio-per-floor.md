@@ -2,7 +2,7 @@
 
 You can configure each of the following variables on every floor in a different  way
 
-![List](/img/UnrealEditor_3nLDoLnBU0.png)
+![List](../../img/UnrealEditor_3nLDoLnBU0.png)
 
 - **Play Door Open Sound at Component** - If true the Door Open Sound will be played at *Door Open Sound Audio Component location*, if false a 2D sound will be played.
 

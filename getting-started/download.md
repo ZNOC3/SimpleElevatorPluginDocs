@@ -13,4 +13,4 @@
 - Wait for the installation to complete.
 
 
-![LL](/img/EpicGamesLauncher_QxKA1vl7Sr.png)
+![LL](../img/EpicGamesLauncher_QxKA1vl7Sr.png)

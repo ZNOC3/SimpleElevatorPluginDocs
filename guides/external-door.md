@@ -2,7 +2,7 @@
 
 External doors are generated on every floor level based on [Floor Configuration](/guides/floor-config.md)
 
-![Options](/img/UnrealEditor_3zxTUP7wmt.png)
+![Options](../img/UnrealEditor_3zxTUP7wmt.png)
 
 - **Create Doors on Every Floor** - enables external door system, turning it off also turns off the Remove Internal Elevator Doors property .
 

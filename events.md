@@ -9,7 +9,7 @@
 >[!Warning]
 >Using the following events in blueprints overrides its c++ implementation and part of elevator functionality may not work as intended.
 
-- **Event Entry Component Begin Overlap** - Called when player enters entry collision component.
+- **Event Entry Component Begin Overlap** - Called when player enters entry collision component.<br>
 ![ECBO](/img/UnrealEditor_NUpixiVA3h.png)
 
 - **Interaction Collision Box Begin Overlap** - Called when player enters interaction box collision component.<br>
