@@ -26,7 +26,7 @@
     - Save Manager visualises selected save actors using trace ![Vis Dem](/img/UnrealEditor_Wr3JTQ0kRV.jpg)
 
 - Performance
-    - Calculating next floor is now multi-threaded, using async function.
+    - ~~Calculating next floor is now multi-threaded, using async function.~~ (Removed from final release - introduces weird bugs, maybe I'm gonna add it back in future)
     - Refactored almost all functions - now the c++ code is even more readable.
     - Small performance upgrades.
 
