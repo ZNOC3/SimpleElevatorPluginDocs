@@ -1,7 +1,8 @@
 # Simple Elevator Plugin 2.0 documentation
 <p align="center">
-  <img src="https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/babf42d8-9b8c-48dc-ada7-586a2966d4fd" alt="SEP L"/>
+  <img src="https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/138e2bc3-85ae-48de-865c-d266e6f9c61b" alt="SEP L"/>
 </p>
+
 
 Create custom elevators with ease using the Simple Elevator Plugin! With advanced door configurations, precise floor-to-floor distances, customizable delay before doors open, and sound effect support, built-in save system, you can personalize your elevators to your liking. Version 2.0 brings significant improvements to its functionality, making it even more user-friendly and flexible. 
 
