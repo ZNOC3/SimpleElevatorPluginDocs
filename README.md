@@ -33,4 +33,4 @@ Simple Elevator Plugin version 1.1 documentation: [Old Documentation](https://do
 -------------
 
 #### My other proejcts: 
-[![Simple Pick Up System](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/5f47b1cf-4974-4dfc-8ca0-4b331880eb94)](https://www.unrealengine.com/marketplace/en-US/product/c63d2696c86444eda3138fca7dbcf4ca/reviews "Simple Pick Up System")   [![Quick Command Toggle](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/486c9379-71c8-43aa-bc39-8675b7a5ab88 "Quick Command Toggle")](https://www.unrealengine.com/marketplace/en-US/product/df3bc01e72e8497f8a24e49a99188d86 "Quick Command Toggle")
+[![Simple Pick Up System](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/5416e5ca-be71-4883-b056-97fe632b33bc)](https://www.unrealengine.com/marketplace/en-US/product/c63d2696c86444eda3138fca7dbcf4ca/reviews "Simple Pick Up System")   [![Quick Command Toggle](https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/0bcd1b74-a183-400f-92f2-5d705a949b52 "Quick Command Toggle")](https://www.unrealengine.com/marketplace/en-US/product/df3bc01e72e8497f8a24e49a99188d86 "Quick Command Toggle")
