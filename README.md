@@ -3,7 +3,7 @@
   <img src="https://github.com/ZNOC3/SimpleElevatorPluginDocs/assets/133107414/b7a6b96e-94b4-4036-bd12-bf428d95803f" alt="SEP L"/>
 </p>
 
-The Simple Elevator Plugin offers a high level of customizability and flexibility to create elevators tailored to specific needs. With just a few clicks, you can add an elevator to your level and start using it right away. The plugin offers many customization options, such as advanced door configuration, setting up the distance between floors, delay before the doors open, includes sfx support and much more!
+Create custom elevators with ease using the Simple Elevator Plugin! With advanced door configurations, precise floor-to-floor distances, customizable delay before doors open, and sound effect support, built-in save system, you can personalize your elevators to your liking. Version 2.0 brings significant improvements to its functionality, making it even more user-friendly and flexible. 
 
 >[!Warning]
 > Version 2.0 may break some parts of old elevators when using custom setups, make sure to backup your project before updating to the newest version!

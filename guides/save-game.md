@@ -10,3 +10,11 @@
 - **Load Save at Begin Play** - When true save game will be loaded on begin play event, if false save game won't be loaded at all.
 
 - **Save Actors** - select which actors you want to be saved.
+
+# How to enable save system:
+
+- Add BP_SEP_SaveManager to your level.
+
+- Select which save type you want to use.
+
+- Under Save Actors selected all actors you want to be saved.
