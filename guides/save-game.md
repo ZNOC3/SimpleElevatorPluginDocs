@@ -17,4 +17,4 @@
 
 - Select which save type you want to use.
 
-- Under Save Actors selected all actors you want to be saved.
+- Under Save Actors select all actors you want to be saved.
