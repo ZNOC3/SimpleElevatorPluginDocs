@@ -1,6 +1,6 @@
 # Change log
 
-## Version 2.1: Performance improvements (Comming soon!)
+## Version 2.1: Performance improvements (Next up)
 - External doors now use InstancedStaticMeshComponent
 - State handling has been changed to use an enum
 
