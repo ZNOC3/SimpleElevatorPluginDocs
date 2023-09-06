@@ -1,9 +1,7 @@
 # Change log
 
-## Version 2.1: Performance improvements (Next up)
-- External doors now use InstancedStaticMeshComponent
-- State handling has been changed to use an enum
-
+## Version 2.0: Engine update
+- Unreal Engine 5.3 Support
 
 ## Version 2.0: Major Improvements and New Features (Current)
 
