@@ -3,7 +3,7 @@
 ## Version 2.0: Engine update
 - Unreal Engine 5.3 Support
 
-## Version 2.0: Major Improvements and New Features (Current)
+## Version 2.0: Major Improvements and New Features
 
 - Mechanics
     - Rewrote most of the functions to improve performance and stability.
