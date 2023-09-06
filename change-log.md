@@ -6,6 +6,8 @@
 ## Version 2.0: Major Improvements and New Features
 
 - Mechanics
+    - Now you can add doors on every floor
+    - Now includes example sfx
     - Rewrote most of the functions to improve performance and stability.
     - Added the ability to create doors on every floor with custom meshes and offsets.
     - Completely rewritten how doors behave, now plugin features two door movement types:
