@@ -1,5 +1,10 @@
 # Change log
 
+## Version 2.0.1
+- Bugfix
+>[!Note]
+> Due to the Marketplace limitations, the updated version isn't available on Unreal Engine 5.0. If you need a fixed version please get in touch with me on discord or email (ZNOC@proton.me) (make sure to send also confirmation that you bought the plugin)
+
 ## Version 2.0: Engine update
 - Unreal Engine 5.3 Support
 
